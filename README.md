@@ -9,6 +9,7 @@ Program to help decide what outfit to wear when running in various conditions.
 
 ## Usage
 ### Adding and removing users
-![](https://github.com/Phi-Nguyen1/Running-Clothes-Selector/blob/master/screenshots/giphy.gif)
+![](https://github.com/Phi-Nguyen1/Running-Clothes-Selector/blob/master/screenshots/user_add_remove.gif)
 
 ### Outfit reccomendation
+![](https://github.com/Phi-Nguyen1/Running-Clothes-Selector/blob/master/screenshots/outfit_reccomend.gif)
