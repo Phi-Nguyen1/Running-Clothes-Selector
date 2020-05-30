@@ -8,3 +8,5 @@ Program to help decide what outfit to wear when running in various conditions.
 - Saves personal preferences, by remembering if user prefers to run feeling warmer or cooler, based on post-run feedback
 
 ## Usage
+### Adding and removing users
+![](https://github.com/Phi-Nguyen1/Running-Clothes-Selector/blob/master/screenshots/giphy.gif)
